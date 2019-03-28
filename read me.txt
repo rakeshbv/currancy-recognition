@@ -1,0 +1,13 @@
+coin detection using image processing for fixed camera angle and distance(modification asked by sir)
+step:
+1)go to code for coin recognition without different ratio(modified)
+2)the mai file is used to detect the denomination of the coin
+3)coindetect file is used for classifing different coins based on radius
+4)merkz file is used to detect the  centroid of the coin
+5)to get result run the mai file in matlab by entering the test images names to get there denominations 
+
+coin detection using image processing for varing camera angle and distance(not in project extra if needed)
+1)go to code for different ratio
+2)to get result run the test file in matlab to get the denominations of all test images
+this is used mainly to get denomination of coins when we are not knowing the distance of camera and coins and angle of camera ..
+thank you
